@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\bin\Debug\QLNhanVienBasic.exe.config
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\bin\Debug\QLNhanVienBasic.exe
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\bin\Debug\QLNhanVienBasic.pdb
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\bin\Debug\MyEmployeeLibrary.dll
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\bin\Debug\MyEmployeeLibrary.pdb
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\obj\Debug\QLNhanVienBasic.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\obj\Debug\QLNhanVienBasic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\obj\Debug\QLNhanVienBasic.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\obj\Debug\QLNhanVienBasic.exe
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\QLNhanVienBasic\obj\Debug\QLNhanVienBasic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\bin\Debug\MyEmployeeLibrary.dll
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\bin\Debug\MyEmployeeLibrary.pdb
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\obj\Debug\MyEmployeeLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\obj\Debug\MyEmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\obj\Debug\MyEmployeeLibrary.dll
+C:\Users\Admin\source\repos\MyEmployeeLibrary.NguyenNgocHuy\MyEmployeeLibrary\obj\Debug\MyEmployeeLibrary.pdb
